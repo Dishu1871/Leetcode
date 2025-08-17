@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dishu1871/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishu1871/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dishu1871/Leetcode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/Dishu1871/Leetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dishu1871/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dishu1871/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dishu1871/Leetcode/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Dishu1871/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
