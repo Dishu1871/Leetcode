@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dishu1871/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dishu1871/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dishu1871/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/Dishu1871/Leetcode/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
@@ -90,4 +91,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Dishu1871/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
