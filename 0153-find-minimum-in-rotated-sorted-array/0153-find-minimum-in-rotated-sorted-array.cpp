@@ -5,11 +5,11 @@ public:
         while(low<high){
             int mid=low+(high-low)/2;
             if(nums[mid]>nums[high]){
-                low++;
+                low=mid+1;
             }else{
                 high =mid;
             }
         }
-        return nums[high];
+        return nums[low];
     }
 };
