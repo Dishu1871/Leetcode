@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dishu1871/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dishu1871/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Dishu1871/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Dishu1871/Leetcode/tree/master/0278-first-bad-version) |
 ## Array
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Dishu1871/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
