@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Dishu1871/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/Dishu1871/Leetcode/tree/master/1448-maximum-69-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Dishu1871/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Binary Search
 |  |
 | ------- |
