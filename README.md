@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dishu1871/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dishu1871/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Dishu1871/Leetcode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/Dishu1871/Leetcode/tree/master/1642-water-bottles) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dishu1871/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Dishu1871/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
+| [1642-water-bottles](https://github.com/Dishu1871/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Interactive
 |  |
