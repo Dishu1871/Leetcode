@@ -88,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dishu1871/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dishu1871/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dishu1871/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dishu1871/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dishu1871/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Dishu1871/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dishu1871/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dishu1871/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
