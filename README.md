@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Dishu1871/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dishu1871/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/Dishu1871/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Dishu1871/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dishu1871/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dishu1871/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dishu1871/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dishu1871/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dishu1871/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/Dishu1871/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dishu1871/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dishu1871/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dishu1871/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/Dishu1871/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dishu1871/Leetcode/tree/master/0164-maximum-gap) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Dishu1871/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
