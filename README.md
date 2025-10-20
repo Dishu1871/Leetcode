@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dishu1871/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1603-running-sum-of-1d-array](https://github.com/Dishu1871/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Dishu1871/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishu1871/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dishu1871/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dishu1871/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Dishu1871/Leetcode/tree/master/0504-base-7) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dishu1871/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishu1871/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dishu1871/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Dishu1871/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dishu1871/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dishu1871/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/Dishu1871/Leetcode/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishu1871/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Dishu1871/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dishu1871/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
