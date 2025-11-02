@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Dishu1871/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dishu1871/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Dishu1871/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Dishu1871/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Dishu1871/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dishu1871/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dishu1871/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Dishu1871/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dishu1871/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Dishu1871/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dishu1871/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Dishu1871/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dishu1871/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
