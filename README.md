@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Dishu1871/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Dishu1871/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Dishu1871/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Dishu1871/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Dishu1871/Leetcode/tree/master/1086-divisor-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dishu1871/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dishu1871/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dishu1871/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dishu1871/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Dishu1871/Leetcode/tree/master/0389-find-the-difference) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Dishu1871/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dishu1871/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dishu1871/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dishu1871/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
