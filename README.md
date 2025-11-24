@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dishu1871/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0909-stone-game](https://github.com/Dishu1871/Leetcode/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Dishu1871/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Dishu1871/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dishu1871/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dishu1871/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Dishu1871/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dishu1871/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dishu1871/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Dishu1871/Leetcode/tree/master/0389-find-the-difference) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Dishu1871/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dishu1871/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
