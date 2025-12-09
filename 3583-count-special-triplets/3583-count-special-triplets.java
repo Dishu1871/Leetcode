@@ -11,9 +11,9 @@ class Solution {
         while(i<nums.length){
             int required=2*nums[i];
             if(left.containsKey(required) && right.containsKey(required)){
-               int a=left.get(required);
-                int  b=right.get(required);
-                count=(count+(1L*a*b))%1000000007;
+               long a=left.get(required);
+               long b=right.get(required);
+                count=(count+(a*b))%1000000007;
             }
             left.put(nums[i],left.getOrDefault(nums[i],0)+1);
             if(i+1<nums.length){
