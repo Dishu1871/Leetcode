@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Dishu1871/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Dishu1871/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Dishu1871/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dishu1871/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dishu1871/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dishu1871/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dishu1871/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dishu1871/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1929-concatenation-of-array](https://github.com/Dishu1871/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Dishu1871/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dishu1871/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishu1871/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dishu1871/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dishu1871/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Dishu1871/Leetcode/tree/master/1086-divisor-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dishu1871/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dishu1871/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dishu1871/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Two Pointers
 |  |
 | ------- |
