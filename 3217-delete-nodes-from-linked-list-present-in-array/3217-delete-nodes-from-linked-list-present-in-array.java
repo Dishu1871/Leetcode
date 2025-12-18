@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        java.util.HashSet<Integer> mpp = new java.util.HashSet<>();
+        HashSet<Integer> mpp = new HashSet<>();
         for (int x : nums) mpp.add(x);
         while (head != null && mpp.contains(head.val)) head = head.next;
         ListNode curr = head;
