@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dishu1871/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Dishu1871/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0909-stone-game](https://github.com/Dishu1871/Leetcode/tree/master/0909-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Dishu1871/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0989-add-to-array-form-of-integer](https://github.com/Dishu1871/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-largest-perimeter-triangle](https://github.com/Dishu1871/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dishu1871/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Dishu1871/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Dishu1871/Leetcode/tree/master/0504-base-7) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Dishu1871/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dishu1871/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dishu1871/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Dishu1871/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
