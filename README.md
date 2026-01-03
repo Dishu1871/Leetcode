@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Dishu1871/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Dishu1871/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Dishu1871/Leetcode/tree/master/1086-divisor-game) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Dishu1871/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dishu1871/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dishu1871/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dishu1871/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
