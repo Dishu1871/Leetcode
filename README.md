@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dishu1871/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dishu1871/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Dishu1871/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Dishu1871/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishu1871/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dishu1871/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dishu1871/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dishu1871/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Dishu1871/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dishu1871/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dishu1871/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Dishu1871/Leetcode/tree/master/0067-add-binary) |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dishu1871/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Dishu1871/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
