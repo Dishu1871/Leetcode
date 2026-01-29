@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dishu1871/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dishu1871/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dishu1871/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dishu1871/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dishu1871/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dishu1871/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dishu1871/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dishu1871/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Dishu1871/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Dishu1871/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dishu1871/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Dishu1871/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dishu1871/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Dishu1871/Leetcode/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
