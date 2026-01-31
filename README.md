@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dishu1871/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dishu1871/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dishu1871/Leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Dishu1871/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Dishu1871/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dishu1871/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dishu1871/Leetcode/tree/master/0075-sort-colors) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dishu1871/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Dishu1871/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Dishu1871/Leetcode/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
