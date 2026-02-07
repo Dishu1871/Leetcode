@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Dishu1871/Leetcode/tree/master/1086-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Dishu1871/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dishu1871/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dishu1871/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dishu1871/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dishu1871/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Two Pointers
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dishu1871/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dishu1871/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Dishu1871/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dishu1871/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dishu1871/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishu1871/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Dishu1871/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Dishu1871/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dishu1871/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dishu1871/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dishu1871/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Dishu1871/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
