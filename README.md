@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Dishu1871/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dishu1871/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dishu1871/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Dishu1871/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dishu1871/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Dishu1871/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dishu1871/Leetcode/tree/master/0069-sqrtx) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Dishu1871/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dishu1871/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Dishu1871/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Dishu1871/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Dishu1871/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dishu1871/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dishu1871/Leetcode/tree/master/0066-plus-one) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dishu1871/Leetcode/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dishu1871/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Dishu1871/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dishu1871/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
