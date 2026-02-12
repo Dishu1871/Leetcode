@@ -6,7 +6,7 @@ class Solution {
             if(common==0){
                 common=freq[i];
             }
-            else if(freq[i]!=common)return false;
+             if(freq[i]!=common)return false;
         }
         return true;
     }
