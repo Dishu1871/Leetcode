@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Dishu1871/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dishu1871/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dishu1871/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Dishu1871/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dishu1871/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dishu1871/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dishu1871/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dishu1871/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dishu1871/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Dishu1871/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Dishu1871/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Dishu1871/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dishu1871/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dishu1871/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Dishu1871/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dishu1871/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Dishu1871/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dishu1871/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
