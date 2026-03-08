@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dishu1871/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Dishu1871/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Dishu1871/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Dishu1871/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dishu1871/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Dishu1871/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dishu1871/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/Dishu1871/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dishu1871/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dishu1871/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Dishu1871/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dishu1871/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dishu1871/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dishu1871/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dishu1871/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dishu1871/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dishu1871/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/Dishu1871/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishu1871/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Dishu1871/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dishu1871/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Dishu1871/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Dishu1871/Leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Dishu1871/Leetcode/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Dishu1871/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
