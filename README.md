@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dishu1871/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dishu1871/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dishu1871/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Dishu1871/Leetcode/tree/master/2615-sum-of-distances) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2906-construct-product-matrix](https://github.com/Dishu1871/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dishu1871/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dishu1871/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dishu1871/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Dishu1871/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Dishu1871/Leetcode/tree/master/3379-transformed-array) |
