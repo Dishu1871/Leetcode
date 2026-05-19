@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Dishu1871/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dishu1871/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dishu1871/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/Dishu1871/Leetcode/tree/master/2540-minimum-common-value) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Dishu1871/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Array
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dishu1871/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dishu1871/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dishu1871/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Dishu1871/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Dishu1871/Leetcode/tree/master/2615-sum-of-distances) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Dishu1871/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dishu1871/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dishu1871/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/Dishu1871/Leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dishu1871/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Dishu1871/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Dishu1871/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dishu1871/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/Dishu1871/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Dishu1871/Leetcode/tree/master/2615-sum-of-distances) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dishu1871/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dishu1871/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
