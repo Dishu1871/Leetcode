@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dishu1871/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Dishu1871/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Dishu1871/Leetcode/tree/master/2615-sum-of-distances) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Dishu1871/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dishu1871/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dishu1871/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dishu1871/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Dishu1871/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dishu1871/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dishu1871/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Dishu1871/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Dishu1871/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Dishu1871/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dishu1871/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
