@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Dishu1871/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dishu1871/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-find-the-highest-altitude](https://github.com/Dishu1871/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Dishu1871/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dishu1871/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dishu1871/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dishu1871/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dishu1871/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dishu1871/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dishu1871/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/Dishu1871/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dishu1871/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Dishu1871/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Dishu1871/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dishu1871/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dishu1871/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Dishu1871/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Dishu1871/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dishu1871/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dishu1871/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/Dishu1871/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -793,4 +796,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dishu1871/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Dishu1871/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
