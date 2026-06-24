@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dishu1871/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Dishu1871/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Dishu1871/Leetcode/tree/master/0504-base-7) |
+| [0606-construct-string-from-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/Dishu1871/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Dishu1871/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Dishu1871/Leetcode/tree/master/0796-rotate-string) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dishu1871/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Dishu1871/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Dishu1871/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0606-construct-string-from-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Dishu1871/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dishu1871/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Dishu1871/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Dishu1871/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0606-construct-string-from-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Dishu1871/Leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dishu1871/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Dishu1871/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Dishu1871/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0606-construct-string-from-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Dishu1871/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
