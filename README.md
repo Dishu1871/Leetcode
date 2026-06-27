@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Dishu1871/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Dishu1871/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Dishu1871/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Dishu1871/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Dishu1871/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Dishu1871/Leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Dishu1871/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Dishu1871/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0606-construct-string-from-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dishu1871/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Dishu1871/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
