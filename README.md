@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dishu1871/Leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Dishu1871/Leetcode/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Dishu1871/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dishu1871/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dishu1871/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
