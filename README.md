@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dishu1871/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Dishu1871/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Dishu1871/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Dishu1871/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dishu1871/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Dishu1871/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dishu1871/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dishu1871/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dishu1871/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dishu1871/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Dishu1871/Leetcode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Dishu1871/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Dishu1871/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dishu1871/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dishu1871/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dishu1871/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dishu1871/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/Dishu1871/Leetcode/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Dishu1871/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dishu1871/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Dishu1871/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Dishu1871/Leetcode/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/Dishu1871/Leetcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Dishu1871/Leetcode/tree/master/1086-divisor-game) |
+| [1927-sum-game](https://github.com/Dishu1871/Leetcode/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Dishu1871/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
