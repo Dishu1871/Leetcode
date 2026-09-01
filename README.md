@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Dishu1871/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-largest-perimeter-triangle](https://github.com/Dishu1871/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dishu1871/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1094-car-pooling](https://github.com/Dishu1871/Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Dishu1871/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dishu1871/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/Dishu1871/Leetcode/tree/master/1306-jump-game-iii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dishu1871/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dishu1871/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1094-car-pooling](https://github.com/Dishu1871/Leetcode/tree/master/1094-car-pooling) |
 | [1603-running-sum-of-1d-array](https://github.com/Dishu1871/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Dishu1871/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dishu1871/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Dishu1871/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Dishu1871/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Dishu1871/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1094-car-pooling](https://github.com/Dishu1871/Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Dishu1871/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dishu1871/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Dishu1871/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Dishu1871/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Dishu1871/Leetcode/tree/master/0682-baseball-game) |
+| [1094-car-pooling](https://github.com/Dishu1871/Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Dishu1871/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dishu1871/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dishu1871/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -895,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dishu1871/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Dishu1871/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1094-car-pooling](https://github.com/Dishu1871/Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dishu1871/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/Dishu1871/Leetcode/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
