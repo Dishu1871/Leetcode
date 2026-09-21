@@ -830,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dishu1871/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dishu1871/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dishu1871/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Dishu1871/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dishu1871/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Dishu1871/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Dishu1871/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Dishu1871/Leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Dishu1871/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Quicksort
 |  |
