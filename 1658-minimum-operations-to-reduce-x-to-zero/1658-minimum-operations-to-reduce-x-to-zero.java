@@ -6,13 +6,9 @@ class Solution {
         }
 
         long target = totalSum - x;
-
-        // If target is negative, sum(nums) < x, impossible to reach 0
         if (target < 0) {
             return -1;
         }
-
-        // If target is 0, we must remove all elements
         if (target == 0) {
             return nums.length;
         }
