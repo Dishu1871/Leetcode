@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Dishu1871/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dishu1871/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dishu1871/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dishu1871/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dishu1871/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Dishu1871/Leetcode/tree/master/2540-minimum-common-value) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Dishu1871/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dishu1871/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dishu1871/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dishu1871/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dishu1871/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dishu1871/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dishu1871/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Dishu1871/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dishu1871/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dishu1871/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dishu1871/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dishu1871/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dishu1871/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dishu1871/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dishu1871/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dishu1871/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dishu1871/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dishu1871/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dishu1871/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dishu1871/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dishu1871/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -967,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Dishu1871/Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dishu1871/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/Dishu1871/Leetcode/tree/master/1834-single-threaded-cpu) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dishu1871/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
