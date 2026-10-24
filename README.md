@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Dishu1871/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Dishu1871/Leetcode/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Dishu1871/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2571-find-the-pivot-integer](https://github.com/Dishu1871/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Dishu1871/Leetcode/tree/master/2630-alternating-digit-sum) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishu1871/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Dishu1871/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dishu1871/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2409-count-days-spent-together](https://github.com/Dishu1871/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dishu1871/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dishu1871/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dishu1871/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
