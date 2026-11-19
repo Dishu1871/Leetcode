@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dishu1871/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Dishu1871/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dishu1871/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2615-sum-of-distances](https://github.com/Dishu1871/Leetcode/tree/master/2615-sum-of-distances) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dishu1871/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2747-count-zero-request-servers](https://github.com/Dishu1871/Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dishu1871/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dishu1871/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dishu1871/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dishu1871/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dishu1871/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dishu1871/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dishu1871/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dishu1871/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dishu1871/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dishu1871/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dishu1871/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Dishu1871/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dishu1871/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dishu1871/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
